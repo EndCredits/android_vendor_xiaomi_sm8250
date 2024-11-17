@@ -170,31 +170,15 @@ PRODUCT_PACKAGES += \
     libadsprpc \
     libc2d30_bltlib \
     libcdsprpc \
-    libdiag \
-    libdsi_netctrl \
-    libdsutils \
     libfastcvdsp_stub \
     libfastcvopt \
     libgpudataproducer \
     libgsl \
-    libidl \
     libkcl \
     libkernelmanager \
     libllvm-glnext \
     libllvm-qcom \
     libmdsprpc \
-    libqcci_legacy \
-    libqcmaputils \
-    libqdi \
-    libqdp \
-    libqmi \
-    libqmi_cci \
-    libqmi_client_helper \
-    libqmi_client_qmux \
-    libqmi_common_so \
-    libqmi_csi \
-    libqmi_encdec \
-    libqmiservices \
     libscveCommon \
     libscveCommon_stub \
     libscveObjectSegmentation \
@@ -326,12 +310,15 @@ PRODUCT_PACKAGES += \
     libconfigdb \
     libcpion \
     libdataitems \
+    libdiag \
     libdisp-aba \
     libdisplayqos \
     libdisplayskuutils \
     libdpmqmihal \
     libdrmfs \
     libdrmtime \
+    libdsi_netctrl \
+    libdsutils \
     libgame_enhance \
     libgdtap \
     libgeofencing \
@@ -341,6 +328,7 @@ PRODUCT_PACKAGES += \
     libhdr_tm \
     libhexagon_nn_stub \
     libhta_hexagon_runtime \
+    libidl \
     libizat_client_api \
     libizat_core \
     libjnihelper \
@@ -377,10 +365,22 @@ PRODUCT_PACKAGES += \
     libprotobuf-cpp-lite-3.9.1 \
     libqcbor \
     libqcc_file_agent \
+    libqcci_legacy \
+    libqcmaputils \
     libqcrilFramework \
     libqcrildatactl \
+    libqdi \
     libqdma_file_agent \
+    libqdp \
     libqisl \
+    libqmi \
+    libqmi_cci \
+    libqmi_client_helper \
+    libqmi_client_qmux \
+    libqmi_common_so \
+    libqmi_csi \
+    libqmi_encdec \
+    libqmiservices \
     libqrtr \
     libqseed3 \
     libqsocket \
