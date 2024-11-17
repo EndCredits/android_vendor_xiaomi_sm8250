@@ -215,26 +215,16 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
-    libAlacSwDec \
-    libApeSwDec \
     libFileMux_proprietary \
-    libFlacSwDec \
-    libMpeg4SwEncoder \
     libOmxAacDec \
     libOmxAlacDec \
-    libOmxAlacDecSw \
     libOmxAmrDec \
     libOmxAmrwbplusDec \
     libOmxApeDec \
-    libOmxApeDecSw \
     libOmxDsdDec \
     libOmxEvrcDec \
     libOmxG711Dec \
-    libOmxMpeghDecSw \
-    libOmxMpeghEncSw \
     libOmxQcelp13Dec \
-    libOmxSwVdec \
-    libOmxSwVencMpeg4 \
     libOmxVideoDSMode \
     libOmxVpp \
     libOmxWmaDec \
@@ -246,7 +236,6 @@ PRODUCT_PACKAGES += \
     libmmosal_vendor \
     libmmrtpdecoder_proprietary \
     libmmrtpencoder_proprietary \
-    libswvdec \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
