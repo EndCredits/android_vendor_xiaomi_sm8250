@@ -165,7 +165,6 @@ PRODUCT_PACKAGES += \
     libCB \
     libOpenCL \
     libVkLayer_q3dtools \
-    libadreno_app_profiles \
     libadreno_utils \
     libadsprpc \
     libc2d30_bltlib \
@@ -379,6 +378,7 @@ PRODUCT_PACKAGES += \
     libqmi_common_so \
     libqmi_csi \
     libqmi_encdec \
+    libqmi_legacy \
     libqmiservices \
     libqrtr \
     libqseed3 \
