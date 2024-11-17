@@ -170,6 +170,7 @@ PRODUCT_PACKAGES += \
     libadsprpc \
     libc2d30_bltlib \
     libcdsprpc \
+    libdiag \
     libfastcvdsp_stub \
     libfastcvopt \
     libgpudataproducer \
@@ -310,7 +311,6 @@ PRODUCT_PACKAGES += \
     libconfigdb \
     libcpion \
     libdataitems \
-    libdiag \
     libdisp-aba \
     libdisplayqos \
     libdisplayskuutils \
