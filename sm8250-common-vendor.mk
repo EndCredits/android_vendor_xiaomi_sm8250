@@ -187,7 +187,6 @@ PRODUCT_PACKAGES += \
     libscveObjectTracker \
     libscveObjectTracker_stub \
     libsdsprpc \
-    libsubsystem_control \
     libsysmon_cdsp_skel \
     libthermalclient \
     libvppclient \
@@ -633,9 +632,7 @@ PRODUCT_PACKAGES += \
     rmt_storage \
     slim_daemon \
     ssgtzd \
-    ssr_diag \
     ssr_setup \
-    subsystem_ramdump \
     tftp_server \
     thermal-engine \
     time_daemon \
